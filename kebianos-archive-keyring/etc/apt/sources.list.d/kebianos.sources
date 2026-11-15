@@ -1,0 +1,6 @@
+Types: deb
+URIs: https://kebianos.github.io/kebianos-apt/
+Suites: trixie
+Components: main
+Architectures: amd64
+Signed-By: /usr/share/keyrings/kebianos-archive-keyring.gpg

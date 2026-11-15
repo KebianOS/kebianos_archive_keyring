@@ -1,0 +1,9 @@
+Package: kebianos-archive-keyring
+Version: 1.1
+Section: misc
+Priority: optional
+Architecture: all
+Maintainer: Daniel <danny.mg302@gmail.com>
+Description: Claves y fuentes del repositorio APT de KebianOS
+ Instala la clave GPG que firma el repositorio de KebianOS y
+ el archivo de configuración de APT correspondiente.
